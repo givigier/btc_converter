@@ -1,0 +1,5 @@
+[package]
+
+name = "btc_converter"
+version = "0.1.0"
+authors = ["Gabriel Givigier <gabriel@givigier.com>"]
